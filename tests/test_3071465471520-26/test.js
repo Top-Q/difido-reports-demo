@@ -1,0 +1,1 @@
+var test = {"uid":"3071465471520-26","name":"supposedToBeSkippedTest","description":"","timestamp":"2016/06/09 at 14:25:24","duration":0,"parameters":null,"properties":{"Groups":"[]","Class":"il.co.topq.difido.TestsThatAreSkipped"},"reportElements":null};

@@ -1,0 +1,1 @@
+var test = {"uid":"1921465326084-14","name":"testWithError","description":"Test with error","timestamp":"2016/06/07 at 22:01:24","duration":0,"parameters":null,"properties":{"Groups":"[]","Class":"il.co.topq.difido.TestsWithDifferentStatuses"},"reportElements":[{"title":"Message with error","message":"Error message","status":"error","type":"regular","time":"22:01:24:"}]};
