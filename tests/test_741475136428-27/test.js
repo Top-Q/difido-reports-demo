@@ -1,0 +1,1 @@
+var test = {"uid":"741475136428-27","name":"testAddFile","description":"Adding the pom file to the report","timestamp":"2016/09/29 at 11:07:12","duration":0,"parameters":null,"properties":{"Groups":"[]","Class":"il.co.topq.difido.TestsWithFiles"},"reportElements":[{"title":"This is the file","message":"pom.xml","status":"success","type":"lnk","time":"11:07:12:"}]};
